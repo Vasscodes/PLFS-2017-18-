@@ -1,5 +1,5 @@
 ***NAME: VASAVI***
-***CEDA25 STATA test***
+
 
 cap log close
 cls
